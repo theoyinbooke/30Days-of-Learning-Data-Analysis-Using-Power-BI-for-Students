@@ -1,3 +1,5 @@
+![Image Header](https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/30DL%20Github%20Image.png)
+
 # Welcome to 30Days of Learning Data Analysis Using Power BI
 This learning resource will help you learn Data Analysis Using Microsoft Power BI with lots of Hands-on experience. Participants will be able to build a solid project portofolio and be better positioned for job in the data doamin.
 
