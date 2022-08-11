@@ -29,3 +29,8 @@ On the table below, you will find all the topics and link to the sessions:
 |Monday	|6/13/2022	|•The World of Analytics – BI and Data Analysis •Start with Value and not the Tool •Few Steps to Take for all Your Data Analysis Projects •Microsoft Excel Repeating the Miracle •Excel VLOOKUP •Excel Pivot tables, Charts, Building reports	|Exploring the world of Analytics Understanding Business Value Intro to MS Excel and Excel Look Up	Video Content on YouTube | Link to Microsoft Excel Tips Link to Download COVID-19 Dataset through MS Excel|	Click Here for Day 1 Learning Content https://aka.ms/30DLDATDay1 |
 |Tuesday	|6/14/2022	|40 Free Dataset for your personal projects COVID19 Dataset in Excel - Web scraping examples	Get access to different sites/platform for open source dataset| Learn how to scrape COVID19 Dataset from GitHub using MS Excel	|Recorded video content	|Click Here for Day 2 Learning Content https://aka.ms/30DLDATDay2 |
 
+
+# Full Learning Resources
+Visit https://aka.ms/30DLDATLandingPage for the full 30 days learning resources.
+
+
